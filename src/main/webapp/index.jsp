@@ -5,7 +5,7 @@
 
 <body>
 
-<h1>Version 2 - DevOps CI/CD Pipeline</h1>
+<h1>Version 2 - DevOps CI/CD Pipeline!</h1>
 
 <h2>Application deployed successfully!</h2>
 
